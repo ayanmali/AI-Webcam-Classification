@@ -1,4 +1,4 @@
-# AI-Webcam-Classifier
+# AI-Webcam-Classification
 Uses a convolutional neural network to classify an image from the webcam into one of three classes
 Implements a UI to allow the user to provide sample data to the model to train it on, then makes predictions on new data.
 
