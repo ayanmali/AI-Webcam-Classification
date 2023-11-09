@@ -1,4 +1,4 @@
-# Importing necessities
+# Importing dependencies
 
 import os
 import shutil
@@ -8,8 +8,8 @@ import PIL.Image, PIL.ImageTk
 import tkinter as tk
 import cv2 as cv
 import camera
-import model
-import model1
+# import model
+# import model1
 import model2
 
 # Boolean to track whether to move onto second window where the model is trained, predictions made, etc.
